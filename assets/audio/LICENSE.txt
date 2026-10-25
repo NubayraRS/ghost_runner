@@ -1,0 +1,13 @@
+Ghost Runner original sound effects
+
+candy_pop.wav, chocolate_ding.wav, golden_chime.wav, ghost_boing.wav,
+ghost_boo.wav, shield_poof.wav, milestone_jingle.wav
+
+These seven sound recordings were created specifically for this project using
+original procedural synthesis. No third-party recordings or samples were used.
+The reproducible sound-design source is tool/generate_sounds.py.
+
+To the extent possible under law, the creator has waived all copyright and
+related or neighboring rights to these sound recordings under CC0 1.0 Universal.
+You may use, modify and redistribute them without attribution.
+License: https://creativecommons.org/publicdomain/zero/1.0/
